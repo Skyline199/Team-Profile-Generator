@@ -15,7 +15,7 @@ GetofficeNumber (); {
     return this.officeNumber;
 }
 
-getRole(); {
+getRole (); {
     return "Manager";
 }
 module.exports = Manager;
